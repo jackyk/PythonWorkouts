@@ -1,0 +1,41 @@
+Create a class that can be able to get a random name from a list of names
+Also if you ask for a number then the return should be "000"
+
+from the list that is random(All the names should have their first-name, middle name, number, and last name)
+Have five classes(Random Person, student one and two, staff member, and Lecturer)
+
+
+initialize a class that takes in the following arguments(rank, first-name,middle-name,last-name,role-number) 
+
+
+
+
+
+
+
+
+
+
+
+
+(student)
+Create a list of students that will be able to do the following
+  get grade/level of education
+          undergraduate
+          Post graduate
+          Masters
+
+  Also get the first and second names of the user
+  What the user is studying
+  And the user number badge
+
+(Staff members)
+Get the employment type of the staff member(temporary/ permanent)
+First/Second/Surname of the employee
+Employ Number
+
+(Lecturers)
+Declares the staff type as permanent
+Prints out all the names and the employee number
+Subjects that the lecturer actually teaches
+also you should be able to get all the lessons that were ever taught

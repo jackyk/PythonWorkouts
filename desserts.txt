@@ -1,0 +1,10 @@
+define a list of the global scope that holds["icecream", "apple"]
+create class desserts
+initialize two argument name of dessert and amount of calories
+create three functions for the class
+is_healthy(should take no arguments)(SHOULD RETURN TRUE IF THE DESSERT TYPE IS FRUIT AND HAS LESS THAN 400 CALORIES)
+is_delicious(should take no arguments)
+dessert type (should take no arguments)
+if dessert type is fruit print delicious and healthy
+else print delicious but not healthy
+use this list to determine the type of dessert
